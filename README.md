@@ -11,6 +11,8 @@ The name of the Project is SpotiDuo.
     . SpotiDuo is our Final Project! It is a full-stack web app intended to help language learners
     on their journey of learning and discovery. The app bridges the enjoyment of listening to music with the task of learning languages to allow for people to learn as they listen. While using the web-app, the user can listen to a song in a language that they are trying to learn, and see the lyrics come up in their native language and the language they are working on learning. Blanks will appear in the lyrics and using what they hear, know from the language that they speak, and from what they have already learned, write in what the word in the blank should be. This will allow them to work on their grammar and comprehension. After the song finishes, if the user enjoyed the song, they will have the option to play with a song that is similar to the song they just used.
 
+Video Demo: https://www.youtube.com/watch?v=qPu-ch3UULo
+
 ## Team members and Contributors
 
 Team members for this project were Awang299 (Allen), hchen187 (Charlene), azchen (Andrew), and mmateoss (Marcel).
