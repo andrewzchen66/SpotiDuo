@@ -1,5 +1,5 @@
 # term-project-mmateoss-Awang299-azchen-hchen187-
-Hello
+
 # Project Details
 
 ## Project Name
